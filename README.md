@@ -17,3 +17,10 @@ This repository contains the implementation of a reinforcement learning system u
     </a>
   </p>
    
+### DQN Results
+   Best result after the training of a Deep Q-Network.
+   <p align="center">
+    <a href="https://www.youtube.com/watch?v=SCdNpNxTDfI">
+      <img src="https://img.youtube.com/vi/SCdNpNxTDfI/0.jpg" alt="Watch the video" style="width:100%; max-width:600px;">
+    </a>
+  </p>
